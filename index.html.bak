@@ -11,7 +11,7 @@
   <p>This is a paragraph.</p>
 
         <h1>This is a ANOTHERHeading</h1>
-        <p>This is a ANOTHER paragraph.master </p>
+        <p>This is a ANOTHER paragraph.master then learning-git branch</p>
 </body>
 </html>
 =======
@@ -21,6 +21,10 @@
 <title>Page Title</title>
 </head>
 <body>
+
+	<h1>This is a ANOTHERHeading</h1>
+	<p>This is a ANOTHER paragraph.</p>
+	
 </body>
 </html>
->>>>>>> 006411e (add SOME hTmL)
+>>>>>>> 919c4be (added ANOTHER)
