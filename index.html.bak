@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,6 +13,7 @@
 
         <h1>This is a ANOTHERHeading</h1>
         <p>This is a ANOTHER paragraph.master then learning-git branch</p>
+		<h2> again </h2>
 </body>
 </html>
 =======
@@ -21,10 +23,8 @@
 <title>Page Title</title>
 </head>
 <body>
-
-	<h1>This is a ANOTHERHeading</h1>
-	<p>This is a ANOTHER paragraph.</p>
-	
+  <h1>This is a Heading</h1>
+  <p>This is a paragraph.</p>
 </body>
 </html>
->>>>>>> 919c4be (added ANOTHER)
+>>>>>>> 3030753 (Update index.html)
